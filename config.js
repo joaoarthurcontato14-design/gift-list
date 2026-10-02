@@ -15,6 +15,7 @@ window.GIFT_CONFIG = {
 
   // Nome que aparece no login do administrador.
   ADMIN_DISPLAY_NAME: "João Arthur",
+  ADMIN_EMAIL: "joaoarthurcontato14@gmail.com"
 
   // Chave Pix usada no site.
   PIX_KEY: "81985387719",
