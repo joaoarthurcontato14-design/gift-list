@@ -10,8 +10,8 @@
 */
 
 window.GIFT_CONFIG = {
-  SUPABASE_URL: "COLE_AQUI_A_URL_DO_SEU_PROJETO_SUPABASE",
-  SUPABASE_ANON_KEY: "COLE_AQUI_A_CHAVE_PUBLICA_DO_SUPABASE",
+  SUPABASE_URL: "https://cbkvlkadiozttzwceiqp.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_yBO3P9PzoGpjG-dUYxzqGw_VrLa5mVb",
 
   // Nome que aparece no login do administrador.
   ADMIN_DISPLAY_NAME: "João Arthur",
@@ -20,6 +20,6 @@ window.GIFT_CONFIG = {
   PIX_KEY: "81985387719",
 
   // Conteúdo inicial mostrado enquanto as configurações do banco ainda não foram preenchidas.
-  FALLBACK_ADDRESS: "COLE AQUI O ENDEREÇO COMPLETO DE ENTREGA.",
+  FALLBACK_ADDRESS: "Rua Júlio Castilho, 308 - Dois Unidos, Recife/PE.",
   FALLBACK_INFO: "Se a compra pedir complemento ou referência, siga as informações acima. Para pedidos da Amazon, confira se o endereço selecionado é o correto antes de finalizar."
 };
